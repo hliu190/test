@@ -1,2 +1,0 @@
-s='palidrom'
-print('s')

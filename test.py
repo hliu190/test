@@ -1,0 +1,2 @@
+s='palidrom'
+print('s')
